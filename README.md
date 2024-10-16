@@ -7,3 +7,7 @@ Kelompok 2:
 Cara Kerja Aplikasi:
 
 ![UML](http://www.plantuml.com/plantuml/png/PK-nIi0m5DpVLzmYj631YbC7AUZYKWAjcyiZFhMQ9YLv1Vltfg53mUNWk7jtz_ga77LR7B7L4F6Q918TYEOHuvvK5dHuyUkci25f-Y-EuiGgb7-X-oge37_pposC6J8CJLlJwRrUFR6pcsCLQ51s9VpYAoqTdkUqEjwl7l911N7-_5A4ZpEmmvJhfroVtdo3iW3LmzrDNQWPKBNtXPH5cMM9g1V_VZnFVm00.png)
+
+- Pengguna memasukan biaya
+- Pengguna memilih jenis pajak
+- Pengguna menerima total biaya
