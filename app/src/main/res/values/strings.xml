@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kalkulator Pajak</string>
+    <string name="cost_of_service">Biaya</string>
+    <string name="how_was_our_service">Pajak</string>
+    <string name="amazing_20">PBJT (40%)</string>
+    <string name="good_18">PPN (12%)</string>
+    <string name="ok_15">PB-1 (10%)</string>
+    <string name="round_up_tip">Bulatkan?</string>
+    <string name="calculate">Hitung</string>
+    <string name="tip_amount">Total Biaya: %s</string>
+</resources>
