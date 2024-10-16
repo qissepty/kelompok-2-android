@@ -4,3 +4,5 @@ Kelompok 2:
 - Amelia Nur Anisa (070)
 - Tazkia Nafla Ursy Izzati (073)
 
+Cara Kerja Aplikasi:
+![Uploading image.png…]()
