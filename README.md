@@ -5,4 +5,4 @@ Kelompok 2:
 - Tazkia Nafla Ursy Izzati (073)
 
 Cara Kerja Aplikasi:
-![Uploading image.png…]()
+<img src="C:\Users\bilqi\Downloads\ANDROI~1\ANDROI~1\TIP-CA~1\PKYZGU~1.PNG" alt="UML" />
